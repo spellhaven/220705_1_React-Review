@@ -1,3 +1,12 @@
+저번 주부터 리액트를 배우기 시작했다.
+난 자바 할 때가 좋았는데. 그 땐 실제로 뭘 만드는 느낌도 있었고 흥미롭고 재밌었다.
+
+근데 지금은... 씨발... 그냥 머리아프면서 에어컨 쐬러 교육원 오는 느낌이다.
+
+**아 씨발 리액트형!!!!!!!!!!!!!!!!!!!!**
+
+===========
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
